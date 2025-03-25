@@ -166,3 +166,7 @@ deliverables!**
       "votes": 0
     }
     ```
+
+
+#Before running the app first start the json server 
+     - json-server --watch db.json
